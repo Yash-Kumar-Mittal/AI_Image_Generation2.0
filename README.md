@@ -22,15 +22,21 @@ The application is a full-stack web platform developed using the MERN stack. It 
 **Screenshots**
 
 * Homepage
-![image](https://github.com/user-attachments/assets/6c4fc1cd-ca2a-48b8-b6b1-05c6b4c10402)
+  
+![image](https://github.com/user-attachments/assets/139c605e-da00-44ca-8a7a-460f08d5a8b1)
+
 
 * Community Showcase
-![image](https://github.com/user-attachments/assets/bde30a4d-1848-4d46-9c5f-6ed3e092da6a)
+  
+![image](https://github.com/user-attachments/assets/0392c282-f5c6-459f-bce1-e509d706fe8c)
+
 
 * Image Generation
-![image](https://github.com/user-attachments/assets/02d83cc2-0ca7-4166-b385-fbd03119a87c)
+  
+![image](https://github.com/user-attachments/assets/c7ee1512-b9ff-442e-a8c0-6067b8f59ec0)
 
 * Search Functionality
+  
 ![image](https://github.com/user-attachments/assets/87f1fda8-2fc7-41e2-a50a-880a2e06f191)
 
 
