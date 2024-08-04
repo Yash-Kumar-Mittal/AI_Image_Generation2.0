@@ -20,13 +20,17 @@ The application is a full-stack web platform developed using the MERN stack. It 
 - **API:** OpenAI's DALL-E
 
 **Screenshots**
-*Homepage
+
+* Homepage
 ![image](https://github.com/user-attachments/assets/6c4fc1cd-ca2a-48b8-b6b1-05c6b4c10402)
-*Community Showcase
+
+* Community Showcase
 ![image](https://github.com/user-attachments/assets/bde30a4d-1848-4d46-9c5f-6ed3e092da6a)
-*Image Generation
+
+* Image Generation
 ![image](https://github.com/user-attachments/assets/02d83cc2-0ca7-4166-b385-fbd03119a87c)
-*Search Functionality
+
+* Search Functionality
 ![image](https://github.com/user-attachments/assets/87f1fda8-2fc7-41e2-a50a-880a2e06f191)
 
 
