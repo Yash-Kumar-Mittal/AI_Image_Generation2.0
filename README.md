@@ -28,7 +28,7 @@ The application is a full-stack web platform developed using the MERN stack. It 
 
 * Community Showcase
   
-![image](https://github.com/user-attachments/assets/0392c282-f5c6-459f-bce1-e509d706fe8c)
+![image](https://github.com/user-attachments/assets/d5c21198-0724-422b-98d3-82427c85b057)
 
 
 * Image Generation
